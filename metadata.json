@@ -1,0 +1,6 @@
+{
+  "name": "AI Sentinel - AI Accident Detection Platform",
+  "description": "Next-generation video classification and traffic safety monitoring platform powered by TimeSformer video transformers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
